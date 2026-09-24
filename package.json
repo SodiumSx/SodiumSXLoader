@@ -1,0 +1,12 @@
+{
+  "name": "sodiumhub-anti-raw",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel anti-raw for Roblox loader - black screen + kick mode, anti bot/tool",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
